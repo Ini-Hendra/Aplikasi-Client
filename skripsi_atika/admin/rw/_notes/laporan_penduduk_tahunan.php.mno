@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsPenduduk" value="name:id_warga;datatype:string,name:nama_lengkap;datatype:string,name:no_ktp;datatype:string,name:no_kk;datatype:string,name:jenis_kelamin;datatype:string,name:tempat_lahir;datatype:string,name:tanggal_lahir;datatype:date,name:agama;datatype:string,name:pendidikan;datatype:string,name:jenis_pekerjaan;datatype:string,name:status_perkawinan;datatype:string,name:status_hubungan;datatype:string,name:kewarganegaraan;datatype:string,name:no_paspor;datatype:string,name:no_kitap;datatype:string,name:nama_ayah;datatype:string,name:nama_ibu;datatype:string,name:alamat;datatype:blob,name:kategori_rt;datatype:string,name:kategori_rw;datatype:string,name:foto;datatype:string,name:username;datatype:string,name:password;datatype:string,name:tgl_input;datatype:timestamp" />
+</info>

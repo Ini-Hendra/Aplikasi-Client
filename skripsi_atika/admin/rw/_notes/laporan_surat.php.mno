@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsSurat" value="name:id_surat;datatype:string,name:username;datatype:string,name:kategori_rt;datatype:string,name:kategori_rw;datatype:string,name:jenis_surat;datatype:string,name:lampiran;datatype:string,name:status_rt;datatype:string,name:status_rw;datatype:string,name:tanggal_input;datatype:date" />
+	<infoitem key="UD_rsSuratBulanan" value="name:id_surat;datatype:string,name:username;datatype:string,name:kategori_rt;datatype:string,name:kategori_rw;datatype:string,name:jenis_surat;datatype:string,name:lampiran;datatype:string,name:status_rt;datatype:string,name:status_rw;datatype:string,name:tanggal_input;datatype:date" />
+	<infoitem key="UD_rsSuratBulananBulanan" value="name:id_surat;datatype:string,name:username;datatype:string,name:kategori_rt;datatype:string,name:kategori_rw;datatype:string,name:jenis_surat;datatype:string,name:lampiran;datatype:string,name:status_rt;datatype:string,name:status_rw;datatype:string,name:tanggal_input;datatype:date" />
+</info>

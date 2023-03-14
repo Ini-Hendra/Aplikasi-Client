@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBeritaCreate" value="name:id_berita;datatype:string,name:judul;datatype:string,name:isi;datatype:blob,name:gambar;datatype:string,name:author;datatype:string,name:posting;datatype:timestamp" />
+</info>

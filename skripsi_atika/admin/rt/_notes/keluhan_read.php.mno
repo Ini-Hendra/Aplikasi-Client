@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsKeluhanRead" value="name:id_keluhan;datatype:string,name:username;datatype:string,name:nama;datatype:string,name:kategori_rt;datatype:string,name:keluhan;datatype:blob,name:tanggapan;datatype:blob,name:tanggal;datatype:timestamp" />
+</info>

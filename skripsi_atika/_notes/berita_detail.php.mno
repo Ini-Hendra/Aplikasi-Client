@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBeritaDetail" value="name:id_berita;datatype:string,name:judul;datatype:string,name:isi;datatype:blob,name:gambar;datatype:string,name:author;datatype:string,name:posting;datatype:timestamp" />
+	<infoitem key="UD_rsTampilComment" value="name:id_comment;datatype:string,name:id_berita;datatype:string,name:username;datatype:string,name:comment;datatype:blob,name:tanggal;datatype:timestamp" />
+</info>
