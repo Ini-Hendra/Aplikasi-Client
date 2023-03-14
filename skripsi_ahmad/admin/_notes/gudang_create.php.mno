@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsGudangCreate" value="name:id_gudang;datatype:int,name:kode_gudang;datatype:string,name:nama_gudang;datatype:string,name:alamat;datatype:blob" />
+</info>

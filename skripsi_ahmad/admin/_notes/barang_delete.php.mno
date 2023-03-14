@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBarangDelete" value="name:id_barang;datatype:string,name:kode_barang;datatype:string,name:nama_barang;datatype:string,name:jenis;datatype:string,name:ukuran;datatype:string,name:kode_aktivasi;datatype:string,name:id_pemilik;datatype:string" />
+</info>

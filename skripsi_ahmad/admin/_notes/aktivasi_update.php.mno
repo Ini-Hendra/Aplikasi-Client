@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsAktivasiUpdate" value="name:id;datatype:int,name:kode_aktivasi;datatype:string,name:status;datatype:string,name:pemilik;datatype:string" />
+</info>
