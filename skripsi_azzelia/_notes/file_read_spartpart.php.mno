@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsFabrikasi" value="name:id_file;datatype:string,name:nama_customer;datatype:string,name:no_po;datatype:string,name:tgl_po;datatype:date,name:nama_file;datatype:string,name:file;datatype:string,name:file2;datatype:string,name:file3;datatype:string,name:file4;datatype:string,name:file5;datatype:string,name:spesifikasi;datatype:blob,name:kategori;datatype:string,name:tgl_upload;datatype:string" />
+</info>

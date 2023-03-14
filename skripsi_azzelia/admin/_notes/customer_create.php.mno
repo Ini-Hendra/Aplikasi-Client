@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCustomerCreate" value="name:id_customer;datatype:string,name:nama_customer;datatype:string,name:no_po;datatype:string,name:tgl_po;datatype:date" />
+</info>

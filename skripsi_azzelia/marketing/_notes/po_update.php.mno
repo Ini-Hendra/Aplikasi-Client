@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsPOUpdate" value="name:id_po;datatype:string,name:no_po;datatype:string,name:nama_pt;datatype:string,name:keterangan;datatype:blob,name:status;datatype:string" />
+</info>
