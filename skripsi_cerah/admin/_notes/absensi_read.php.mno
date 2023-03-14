@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsAbsensiRead" value="name:id_absensi;datatype:string,name:nik;datatype:string,name:nama_karyawan;datatype:string,name:keterangan;datatype:string,name:tanggal;datatype:date" />
+</info>
