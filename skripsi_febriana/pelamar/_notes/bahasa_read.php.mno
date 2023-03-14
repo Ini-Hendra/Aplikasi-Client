@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBahasaRead" value="name:id_bahasa;datatype:string,name:username;datatype:string,name:nama_bahasa;datatype:string,name:nilai_lisan;datatype:int,name:nilai_tulisan;datatype:int,name:penggunaan;datatype:string" />
+</info>

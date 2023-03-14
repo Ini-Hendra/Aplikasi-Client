@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsPengalamanUpdate" value="name:id_pengalaman;datatype:string,name:username;datatype:string,name:nama_perusahaan;datatype:string,name:jabatan;datatype:string,name:gaji;datatype:int,name:lama_bekerja;datatype:string" />
+</info>

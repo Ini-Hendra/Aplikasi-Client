@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsPelamarDetail" value="name:id_pelamar;datatype:string,name:username;datatype:string,name:nama;datatype:string,name:jenis_kelamin;datatype:string,name:tempat_lahir;datatype:string,name:tanggal_lahir;datatype:date,name:ukuran_baju;datatype:string,name:ukuran_sepatu;datatype:string,name:tinggi_badan;datatype:int,name:berat_badan;datatype:int,name:status_kawin;datatype:string,name:status_keluarga;datatype:string,name:agama;datatype:string,name:gol_darah;datatype:string,name:no_hp;datatype:string,name:email;datatype:string,name:nik;datatype:string,name:negara;datatype:string,name:provinsi;datatype:string,name:alamat;datatype:string,name:kota;datatype:string,name:kode_pos;datatype:string,name:no_npwp;datatype:string,name:no_bpjs_kesehatan;datatype:string,name:no_bpjs_tenagakerja;datatype:string,name:no_kk;datatype:string" />
+</info>

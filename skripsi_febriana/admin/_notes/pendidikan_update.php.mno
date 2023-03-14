@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsPendidikanUpdate" value="name:id_pendidikan;datatype:string,name:username;datatype:string,name:nama_institusi;datatype:string,name:bidang_studi;datatype:string,name:jurusan;datatype:string,name:bulan_lulus;datatype:string,name:tahun_lulus;datatype:string,name:kualifikasi;datatype:string,name:nilai;datatype:real" />
+</info>
